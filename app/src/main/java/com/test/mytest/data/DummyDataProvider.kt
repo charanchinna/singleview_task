@@ -12,7 +12,7 @@ object DummyDataProvider {
         return User(
             userType = "active",
             coolingStartTime = "2025-07-16T13:55:00Z",
-            coolingEndTime = "2025-06-16T14:00:00Z",
+            coolingEndTime = "2025-09-16T14:00:00Z",
             accessibleModules = listOf("payments", "account_info")
         )
     }
