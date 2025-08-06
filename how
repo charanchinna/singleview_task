@@ -1,0 +1,9 @@
+[33mcommit 8df734553abd58e3c2e50b4bc67a0ac5dd45a820[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 563e1b8 7fa70d9
+Author: charanbasani <charanbasani20@gmail.com>
+Date:   Wed Aug 6 07:56:52 2025 +0530
+
+    Merge branch 'main' of https://github.com/charanchinna/singleview_task
+
+ README.md | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
